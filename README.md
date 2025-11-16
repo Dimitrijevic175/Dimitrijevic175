@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=300&section=header&text=Hello%20World!&fontSize=90)
-#About me
 ```yaml
 name: Maksim Dimitrijević
 located_in: Belgrade, Serbia
@@ -7,7 +6,7 @@ current_job: Looking for a job :)
 education:
   [
     "Pursuing a Master's degree in Software Engineering.",
-    "Bachelor's Degree in Computer Science.",
+    "Bachelor's Degree in Computer Science."
   ]
 fields_of_interests:
   [
@@ -16,7 +15,7 @@ fields_of_interests:
     "QA Engineering",
     "UI/UX",
     "Cybersecurity",
-    "DevOps",
+    "DevOps"
   ]
 technical_skills:
 backend: ["Java", "Spring Boot", "Microservices"]
