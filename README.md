@@ -22,3 +22,4 @@ backend: ["Java", "Spring Boot", "Microservices"]
 frontend: ["React", "Angular", "Vue.js", "React Native"]
 other: ["Docker","Git", "GitHub", "SQL", "NoSQL", "Kotlin"]
 ```
+![Snake animation](https://github.com/Dimitrijevic175/Dimitrijevic175/blob/output/github-contribution-grid-snake.svg)
