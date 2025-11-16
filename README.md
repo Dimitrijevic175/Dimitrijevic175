@@ -17,7 +17,7 @@ fields_of_interests:
     "Cybersecurity",
     "DevOps"
   ]
-technical_skills:
+#technical_skills:
 backend: ["Java", "Spring Boot", "Microservices"]
 frontend: ["React", "Angular", "Vue.js", "React Native"]
 other: ["Docker","Git", "GitHub", "SQL", "NoSQL", "Kotlin"]
