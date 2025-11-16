@@ -22,3 +22,4 @@ backend: ["Java", "Spring Boot", "Microservices"]
 frontend: ["React", "Angular", "Vue.js", "React Native"]
 other: ["Docker","Git", "GitHub", "SQL", "NoSQL", "Kotlin"]
 ```
+![footer](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=300&section=header&fontSize=90)
