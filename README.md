@@ -3,7 +3,6 @@
 ```yaml
 name: Maksim Dimitrijević
 located_in: Belgrade, Serbia
-current_job: Looking for a job :)
 education:
   [
     "Pursuing a Master's degree in Software Engineering.",
