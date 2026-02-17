@@ -29,6 +29,4 @@ other: ["Docker","Git", "GitHub", "SQL", "NoSQL", "Kotlin"]
 ![](https://nirzak-streak-stats.vercel.app/?user=Dimitrijevic175&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitrijevic175&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Visit Count
-[![](https://visitcount.itsvg.in/api?id=Dimitrijevic175&icon=5&color=4)](https://visitcount.itsvg.in)
 
